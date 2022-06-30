@@ -1,0 +1,36 @@
+@import"../App.css";
+.footer-container{
+    border-top: 3px solid #DA291C;
+    display: flex;
+    height: 14vh;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+}
+.footer-img-container{
+    position: absolute;
+    left: 0;
+    padding: 20px 0px 0px 20px;
+}
+.tr-1{
+    padding-top: 20px;
+    display: block;
+    width: 400px;
+    text-align: center;
+    margin-right: 80px;
+}
+.school {
+    font-size:2rem;
+    color: #DA291C;
+}
+.dep {
+    font-style: italic;
+}
+.tr-2 {
+    position: absolute;
+    right: 0;
+    padding-top: 40px;
+    padding-right: 50px;
+    font-size: 1.2rem;
+    text-align: right;
+}

@@ -1,0 +1,2 @@
+20220620	18:06:56	bd694915-4503-48f7-9a25-80585c8effde	Log event emitted!
+20220620	18:07:28	0ea8d9d1-f1ab-48cb-b34a-0fbee4304667	Log event emitted!
